@@ -15,6 +15,17 @@ AStudent is creating a new branch and writing
 the very nice text here. 
 *PLACE HOLDER: ASTUDENT'S VERY NICE TEXT*
 
+
+
+*CONCLUSIONS HERE! *
+guys, it is a very sad conclusion...we cannot go to shopping today because we have too many bad things to do. :( 
+*sad music*
+bye.
+....
+bye again.
+
+
+
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
